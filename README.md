@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbhishekPatil1310
+- 👋 Hi, I’m @AbhishekPatil
 - 👀 I’m interested in programming
 - 🌱 I’m currently in final year of my b-tech(CSE
 - 💞️ I’m looking to collaborate on projects related to software developer and ai models
